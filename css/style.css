@@ -178,7 +178,7 @@ ul
 .aside .logo
 {
     position: absolute;
-    top: 50px;
+    top: 5%;
     font-size: 30px;
     text-transform: capitalize;
 }
@@ -1045,6 +1045,10 @@ h3.my-profession
     
    
 }
+#stats{
+    display: flex;
+    flex-direction: column;
+}
 }
 
 @media (max-width:565px) {
@@ -1102,7 +1106,12 @@ subheading : 32px */
       min-height: 243px;
       text-align: center;
       margin: 0 auto;
+      width: 90%;
   }
+  /* //
+   */
+
+  
   
   .calendar-graph text.wday,
   .calendar-graph text.month {
@@ -1171,7 +1180,7 @@ subheading : 32px */
   }
   
   .calendar img.spinner {
-      width: 70px;
+      width: 90px;
       margin-top: 50px;
       min-height: 70px;
   }

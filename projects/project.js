@@ -1,7 +1,7 @@
 const Projects = [
     {
         name : "Clone of Anthropologie.com",
-        about : "Anthropologie is an American clothing retailer with approximately 200 stores across the U.S., Canada, and the UK that offers an assortment of clothing, jewelry, home furniture, decoration, beauty products,",
+        about : "Anthropologie is an American clothing retailer ecommerce company clothing, jewelry, home furniture, decoration, beauty products.",
         // do it here
         img : "./projects/anthropologie.png",
         gitrepo : "https://github.com/gaurav7ingh/Anthropologie",
@@ -22,7 +22,7 @@ const Projects = [
     },
     {
         name : "Clone of Rentomojo.com",
-        about : "RentoMojo aims to create awareness about ‘renting’ and the ‘access lifestyle’ as a concept in the consumer consideration set. The company is anchored on an asset-light, fintech model that makes it a scalable business venture in the startup ecosystem.",
+        about : "RentoMojo is an ecommerce company for renting various products. The project was a collaborative project completed with a team of 5 members",
         img : "./projects/rentomojo-2.jpg",
         gitrepo : "https://github.com/NaziaSayyad/panicky-smash-9541/tree/main/main_frontend",
         // blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
@@ -55,42 +55,42 @@ const Projects = [
         project_type : "Team Project"
 
     },
-    {
-        name : "Clone of Rentomojo.com",
-        about : "RentoMojo aims to create awareness about ‘renting’ and the ‘access lifestyle’ as a concept in the consumer consideration set. The company is anchored on an asset-light, fintech model that makes it a scalable business venture in the startup ecosystem.",
-        img : "./projects/rentomojo-2.jpg",
-        gitrepo : "https://github.com/NaziaSayyad/panicky-smash-9541/tree/main/main_frontend",
-        // blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
-        tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
-        tech_stackicons : [
-        `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-        `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-        `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-        `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
-        `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`
-        ],
-        project_link : "https://chipper-caramel-621078.netlify.app/",
-        project_type : "Team Project"
+    // {
+    //     name : "Clone of Rentomojo.com",
+    //     about : "RentoMojo aims to create awareness about ‘renting’ and the ‘access lifestyle’ as a concept in the consumer consideration set. The company is anchored on an asset-light, fintech model that makes it a scalable business venture in the startup ecosystem.",
+    //     img : "./projects/rentomojo-2.jpg",
+    //     gitrepo : "https://github.com/NaziaSayyad/panicky-smash-9541/tree/main/main_frontend",
+    //     // blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
+    //     tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
+    //     tech_stackicons : [
+    //     `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
+    //     `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
+    //     `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+    //     `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
+    //     `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`
+    //     ],
+    //     project_link : "https://chipper-caramel-621078.netlify.app/",
+    //     project_type : "Team Project"
 
-    },
-    {
-        name : "Clone of Rentomojo.com",
-        about : "RentoMojo aims to create awareness about ‘renting’ and the ‘access lifestyle’ as a concept in the consumer consideration set. The company is anchored on an asset-light, fintech model that makes it a scalable business venture in the startup ecosystem.",
-        img : "./projects/rentomojo-2.jpg",
-        gitrepo : "https://github.com/NaziaSayyad/panicky-smash-9541/tree/main/main_frontend",
-        // blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
-        tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
-        tech_stackicons : [
-        `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-        `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-        `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-        `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
-        `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`
-        ],
-        project_link : "https://chipper-caramel-621078.netlify.app/",
-        project_type : "Team Project"
+    // },
+    // {
+    //     name : "Clone of Rentomojo.com",
+    //     about : "RentoMojo aims to create awareness about ‘renting’ and the ‘access lifestyle’ as a concept in the consumer consideration set. The company is anchored on an asset-light, fintech model that makes it a scalable business venture in the startup ecosystem.",
+    //     img : "./projects/rentomojo-2.jpg",
+    //     gitrepo : "https://github.com/NaziaSayyad/panicky-smash-9541/tree/main/main_frontend",
+    //     // blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
+    //     tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
+    //     tech_stackicons : [
+    //     `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
+    //     `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
+    //     `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+    //     `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
+    //     `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`
+    //     ],
+    //     project_link : "https://chipper-caramel-621078.netlify.app/",
+    //     project_type : "Team Project"
 
-    }
+    // }
 ]
 
 

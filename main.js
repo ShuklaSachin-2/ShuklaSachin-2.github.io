@@ -21,3 +21,13 @@ $(document).ready(function(){
         'linear'
     })
 })
+//////
+
+function submitForm() {
+
+    var frm = document.getElementById('my_form');
+    frm.submit(); // Submit the form
+    frm.reset();  // Reset all form data
+    return false; // Prevent page refresh
+
+}
