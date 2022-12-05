@@ -470,7 +470,7 @@ li {
 }
 
 .project-tech-list li>img {
-    width: 35px;
+    width: 45px;
 }
 
 .fixLinkForImage {
@@ -489,6 +489,7 @@ li {
 .project-links {
     margin-top: 15px;
     height: 30px;
+    justify-content: right;
 }
 
 #fixFooter {
