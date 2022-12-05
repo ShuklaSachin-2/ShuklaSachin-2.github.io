@@ -73,7 +73,7 @@
     width: 100%;
     padding-right: 70px;
     justify-content: space-between;
-    position: fixed;
+    position: sticky;
     z-index: 1;
     top: 0;
     background-color: rgba(10, 25, 47, 0.85);
@@ -489,6 +489,7 @@ li {
 .project-links {
     margin-top: 15px;
     height: 30px;
+    display: flex;
     justify-content: right;
 }
 
