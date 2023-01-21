@@ -90,7 +90,7 @@ function submitForm() {
 
 function download() {
 
-    window.open("./source/Sachin-Shukla-Resume.pdf","_blank");
+    window.open("https://drive.google.com/file/d/1xqkA9u1dUFwG5pcCJx4_mbDwfSR219nd/view?usp=share_link","_blank");
 
 }
 
